@@ -1,0 +1,11 @@
+C:\Users\panos\source\repos\QRcodeGenerator\QRcodeGenerator\bin\Debug\QRcodeGenerator.exe.config
+C:\Users\panos\source\repos\QRcodeGenerator\QRcodeGenerator\bin\Debug\QRcodeGenerator.exe
+C:\Users\panos\source\repos\QRcodeGenerator\QRcodeGenerator\bin\Debug\QRcodeGenerator.pdb
+C:\Users\panos\source\repos\QRcodeGenerator\QRcodeGenerator\obj\Debug\QRcodeGenerator.csprojAssemblyReference.cache
+C:\Users\panos\source\repos\QRcodeGenerator\QRcodeGenerator\obj\Debug\QRcodeGenerator.Properties.Resources.resources
+C:\Users\panos\source\repos\QRcodeGenerator\QRcodeGenerator\obj\Debug\QRcodeGenerator.csproj.GenerateResource.cache
+C:\Users\panos\source\repos\QRcodeGenerator\QRcodeGenerator\obj\Debug\QRcodeGenerator.exe
+C:\Users\panos\source\repos\QRcodeGenerator\QRcodeGenerator\obj\Debug\QRcodeGenerator.pdb
+C:\Users\panos\source\repos\QRcodeGenerator\QRcodeGenerator\obj\Debug\QRcodeGenerator.QRcodeGenerator.resources
+C:\Users\panos\source\repos\QRcodeGenerator\QRcodeGenerator\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\panos\source\repos\QRcodeGenerator\QRcodeGenerator\obj\Debug\QRcodeGenerator.csproj.CopyComplete
